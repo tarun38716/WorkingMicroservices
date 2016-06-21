@@ -1,0 +1,10 @@
+/accounts-server/
+/accounts-server.yml
+/db-config.properties
+/io/
+/logback.xml
+/public/
+/registration-server.yml
+/testdb/
+/web-server/
+/web-server.yml
